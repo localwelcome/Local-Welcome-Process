@@ -6,10 +6,10 @@ set :public, File.dirname(__FILE__) + '/static'
 QUESTIONS = [
   "What is your favourite food and can you cook it?",
   "How was your week?",
-  "What are your hopes for the next month?",
-  "How do you hope your life will look in one year from now?",
-  "Is there one thing you can do in the next month to make that hope a reality?",
-  "Is there one thing you would like help or encouragement with this month?"
+  "What are your hopes and challenges next week?",
+  "One year from now, what skill would you like to be using again and what skill would you like to learn?",
+  "Is there one thing you can do in the next month to start learning or using these skills?",
+  "Is there one thing you would like help or encouragement with next month?"
 ]
 
 ROSTI_STEPS = [
