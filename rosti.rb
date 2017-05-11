@@ -17,7 +17,7 @@ ROSTI_STEPS = [
   "Grate the potatoes and the onions into a bowl.",
   "Put the grated potatoes and onions onto a clean tea towel, fold it around and squeeze to remove as much moisture as possible. Turn on the griddle.",
   "Put everything in one bowl, then add flour and eggs and season with salt and black pepper. Mix until evenly combined then divide into equal portions.",
-  "Add two tbsp of oil to the hot griddle. Place one portion of grated potato and, using the back of a spoon, gently push down. Fry the kartoffelpuffer for 3-4 minutes on both side.",
+  "Add two tbsp of oil to the hot griddle. Place one portion of grated potato and, using the back of a spoon, gently push down. Fry the pancakes for 3-4 minutes on both side.",
   "Season with salt and enjoy your potato pancakes!"
 ]
 
