@@ -71,15 +71,19 @@
         $('.pages .page').first().show();
         var page = 0;
         $('.previous').on('click', function() {
-          page = page - 1;
-          $('.pages .page').hide();
-          $($('.pages .page')[page]).show();
+          if(page > 0) {
+            page = page - 1;
+            $('.pages .page').hide();
+            $($('.pages .page')[page]).show();
+          }
           return false;
         })
         $('.next').on('click', function() {
-          page = page + 1;
-          $('.pages .page').hide();
-          $($('.pages .page')[page]).show();
+          if(page < 6) {
+            page = page + 1;
+            $('.pages .page').hide();
+            $($('.pages .page')[page]).show();
+          }
           return false;
         })
       })
