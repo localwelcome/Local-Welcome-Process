@@ -1,0 +1,9 @@
+Installation
+------------
+
+Requires ruby (via rvm or rbenv)
+`gem install bundler`
+`bundle`
+`rackup`
+
+open http://localhost:9292
